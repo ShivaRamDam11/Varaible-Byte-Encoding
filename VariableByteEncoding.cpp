@@ -63,7 +63,7 @@ main()
 		}		
 	}
 	
-	// for printing variable byte codes in decimal value from forward
+	// for printing variable byte codes in binary digits
 	printf("\nVB code in decimal value:\n");
 	for(i=0;i<num;i++)
 	{
