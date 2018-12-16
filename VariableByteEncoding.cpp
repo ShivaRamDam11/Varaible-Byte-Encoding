@@ -94,7 +94,8 @@ main()
 
 
 /*
-for Testing
+for Testing:
+No of Doc IDs : 4
 docIDs:
 777	17743	294068	31251336
 */
