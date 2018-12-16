@@ -1,4 +1,10 @@
+// Program for Varible Byte Encoding
+// Coded By Shiva Ram Dam, MScISE-Batch 2018, Gandaki College of Engineering and Science, Pokhara, Nepal.
+// 10 December 2018
+
 #include<stdio.h>
+
+//function to convert decimal inot binary
 int decToBinary(int n) 
 { 
     for (int i = 7; i >= 0; i--) 
